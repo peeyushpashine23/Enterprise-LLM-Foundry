@@ -1,0 +1,1 @@
+openai>=1.0.0\nlangchain>=0.1.0\npydantic>=2.0.0\nfastapi\nuvicorn\npython-dotenv\nloguru\nchromadb\n
